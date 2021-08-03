@@ -1,7 +1,9 @@
 # Ultrasound Anisotropy
 
-Jupyter notebook for estimating anisotropy in ultrasound (quasi-)longitudinal waves for clinical applications. The inversion is solved probabilitically using Bayesian inference. We assume elliptical anisotropy, which is a special case for transversely isotorpic media. Experimental studies have shown that conditions leading to elliptical anisotropy are satisified in muscles.
+Jupyter notebook for estimating anisotropy of ultrasound (quasi-)longitudinal waves in transversely isotropic tissues. The experimental setup consists of a linear transducer array and a flat reflector located in front of the probe. The inverse problem is addressed probabilitically using Bayesian inference. We assume elliptical anisotropy, which experimental studies have shown to be satisified in muscles.
 
-If you use this work, please cite:
+More details can be found in:
+
+Korta Martiartu, N., Simute, S., Frauenfelder, T., and Rominger, Marga B. (2021) Ultrasound longitudinal-wave anisotropy estimation in muscle tissue. Submitted to IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control.
 
 
