@@ -4,6 +4,6 @@ Jupyter notebook for estimating anisotropy of ultrasound (quasi-)longitudinal wa
 
 More details can be found in:
 
-Korta Martiartu, N., Simute, S., Frauenfelder, T., and Rominger, Marga B. (2021) Ultrasound longitudinal-wave anisotropy estimation in muscle tissue. Submitted to IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control.
+Korta Martiartu, N., Simute, S., Frauenfelder, T., and Rominger, Marga B. (2021) Ultrasound longitudinal-wave anisotropy estimation in muscle tissue. TechRxiv. https://www.techrxiv.org/articles/preprint/Ultrasound_longitudinal-wave_anisotropy_estimation_in_muscle_tissue/15104529
 
 
