@@ -1,0 +1,14 @@
+name: sosanis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - ipython
+  - jupyter
+  - jupyter_contrib_nbextensions
+  - jupytext
+  - matplotlib
+  - numba  
+  - numpy
+
