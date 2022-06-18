@@ -4,7 +4,8 @@ Jupyter notebook for estimating speed-of-sound anisotropy in transversely isotro
 
 More details can be found in:
 
-Korta Martiartu, N., Simute, S., Frauenfelder, T., and Rominger, Marga B. (2021) Ultrasound longitudinal-wave anisotropy estimation in muscle tissue. TechRxiv. https://www.techrxiv.org/articles/preprint/Ultrasound_longitudinal-wave_anisotropy_estimation_in_muscle_tissue/15104529
+Korta Martiartu, N., Simute, S., Jaeger M., Frauenfelder, T., and Rominger, Marga B. (2022) Toward speed-of-sound anisotropy quantification in
+muscle with pulse-echo ultrasound. IEEE-TUFFC. https://www.techrxiv.org/articles/preprint/Ultrasound_longitudinal-wave_anisotropy_estimation_in_muscle_tissue/15104529
 
 ### Reproducing results:
 
